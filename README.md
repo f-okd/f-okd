@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @f-okd
+- 👋 Hi, I’m faye
 - 👀 I’m interested in cyber secuirity and penetration testing.
 - 🌱 I’m currently learning how to ethically hack.
 - 💞️ I’m looking to collaborate on anything!
